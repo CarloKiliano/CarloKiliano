@@ -38,5 +38,5 @@ I am a 6th-semester student in the **Data Science** program at **UNAM**. I speci
 
 ### 📫 Let's Connect!
 * **Email:** [ferrerag.carlok.p8@gmail.com](mailto:ferrerag.carlok.p8@gmail.com)
-* **LinkedIn:** [linkedin.com/in/CarloKiliano](https://linkedin.com/carlo-kiliano-ferrera-guadarrama)
+* **LinkedIn:** [linkedin.com/in/CarloKiliano](https://linkedin.com/in/CarloKiliano-Ferrera)
 * **GitHub:** [github.com/CarloKiliano](https://github.com/CarloKiliano)
